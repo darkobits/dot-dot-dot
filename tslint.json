@@ -1,3 +1,6 @@
 {
-  "extends": "@darkobits/ts-unified/dist/config/tslint.json"
+  "extends": "@darkobits/ts-unified/dist/config/tslint.json",
+  "rules": {
+    "strict-type-predicates": false
+  }
 }
