@@ -20,10 +20,31 @@ npm i @darkobits/dot-dot-dot
 
 ## Use
 
-```ts
-import getRandomMessage from '@darkobits/dot-dot-dot';
+This package's default export is a function that returns a random message each time it is called.
 
-getRandomMessage() //=> 'Reticulating splines...'
+```ts
+import getMessage from '@darkobits/dot-dot-dot';
+
+getMessage() //=> 'Reticulating splines...'
+```
+
+### `getMessageEvery`
+
+This package additionally exports a function, `getMessageEvery`, which accepts an interval and returns a function that, when invoked, will return a random message that updates every `interval` milliseconds.
+
+```ts
+import {getMessageEvery} from '@darkobits/dot-dot-dot';
+
+const getMessageEveryTenSeconds = getMessageEvery(10000);
+
+// T = 0ms
+getMessageEveryTenSeconds(); // => 'Reticulating splines...';
+
+// T = 1000ms
+getMessageEveryTenSeconds(); // => 'Reticulating splines...';
+
+// T = 1100ms
+getMessageEveryTenSeconds(); // => 'Gathering particle sources...';
 ```
 
 ## &nbsp;
