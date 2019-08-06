@@ -7,10 +7,6 @@ describe('getMessage', () => {
   it('should return a string', () => {
     expect(typeof result).toBe('string');
   });
-
-  it('should end with an ellipsis', () => {
-    expect(result.endsWith('...')).toBe(true);
-  });
 });
 
 
