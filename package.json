@@ -23,8 +23,8 @@
     "prepare": "nps prepare"
   },
   "devDependencies": {
-    "@darkobits/ts-unified": "^1.6.0",
-    "@types/jest": "^24.0.13",
-    "@types/node": "^11.13.13"
+    "@darkobits/ts-unified": "^3.0.4",
+    "@types/jest": "^24.0.17",
+    "@types/node": "^11.13.18"
   }
 }
