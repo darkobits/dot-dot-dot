@@ -6,8 +6,7 @@
   <a href="https://github.com/darkobits/dot-dot-dot/actions"><img src="https://img.shields.io/endpoint?url=https://aws.frontlawn.net/ga-shields/darkobits/dot-dot-dot&style=flat-square"></a>
   <a href="https://www.codacy.com/app/darkobits/dot-dot-dot"><img src="https://img.shields.io/codacy/coverage/2d2325ceb82b4ea0bdda20478924d53b.svg?style=flat-square"></a>
   <a href="https://david-dm.org/darkobits/dot-dot-dot"><img src="https://img.shields.io/david/darkobits/dot-dot-dot.svg?style=flat-square"></a>
-  <a href="https://github.com/conventional-changelog/standard-version"><img src="https://img.shields.io/badge/conventional%20commits-1.0.0-027dc6.svg?style=flat-square"></a>
-  <a href="https://github.com/sindresorhus/xo"><img src="https://img.shields.io/badge/code_style-XO-e271a5.svg?style=flat-square"></a>
+  <a href="https://conventionalcommits.org"><img src="https://img.shields.io/badge/conventional%20commits-1.0.0-FB5E85.svg?style=flat-square"></a>
 </p>
 
 Get a random loading message.
