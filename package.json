@@ -8,7 +8,11 @@
     "type": "git",
     "url": "git+https://github.com/darkobits/dot-dot-dot.git"
   },
-  "keywords": [],
+  "keywords": [
+    "loading",
+    "message",
+    "random"
+  ],
   "engines": {
     "node": ">= 10.0.0"
   },
@@ -23,8 +27,8 @@
     "prepare": "nps prepare"
   },
   "devDependencies": {
-    "@darkobits/ts-unified": "^3.0.4",
-    "@types/jest": "^24.0.17",
-    "@types/node": "^11.13.18"
+    "@darkobits/ts-unified": "^3.2.3",
+    "@types/jest": "^24.0.21",
+    "@types/node": "^12.12.0"
   }
 }
