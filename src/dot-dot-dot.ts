@@ -27,14 +27,14 @@ export default function getMessage() {
  */
 export function getMessageEvery(ttl: number) {
   if (typeof ttl !== 'number') {
-    throw new Error(`Expected first argument to be of type "number", got "${typeof ttl}".`);
+    throw new TypeError(`Expected first argument to be of type "number", got "${typeof ttl}".`);
   }
 
   let lastUpdated = 0;
   let lastMessage = getMessage();
 
   return () => {
-    if ((Date.now() - lastUpdated) > ttl) {
+    if (Date.now() - lastUpdated > ttl) {
       lastMessage = getMessage();
       lastUpdated = Date.now();
     }
