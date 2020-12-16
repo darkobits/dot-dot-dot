@@ -47,5 +47,5 @@ getMessageEveryTenSeconds(); // => 'Gathering particle sources...';
 ```
 
 <a href="#top">
-  <img src="https://user-images.githubusercontent.com/441546/102314102-b56c1a80-3f26-11eb-9331-bdeb0f958c94.png" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/441546/102315151-835bb800-3f28-11eb-8cf4-8bd74b94ddc3.png" style="max-width: 100%;">
 </a>
