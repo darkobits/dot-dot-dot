@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/darkobits/dot-dot-dot/compare/v1.0.0...v1.0.1) (2020-12-21)
+
+
+### 📖 Documentation
+
+* Update README. ([fa69cf0](https://github.com/darkobits/dot-dot-dot/commit/fa69cf028562896118ca59dfcbeaf991303d8263))
+
+
+### 🏗 Chores
+
+* Update dependencies. ([aa7ac3a](https://github.com/darkobits/dot-dot-dot/commit/aa7ac3aa3fa0e1e50e068d56483fd0406f627f67))
+
 ## [1.0.0](https://github.com/darkobits/dot-dot-dot/compare/v0.3.1...v1.0.0) (2020-12-16)
 
 
