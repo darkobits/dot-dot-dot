@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/darkobits/dot-dot-dot/compare/v1.0.1...v1.0.2) (2021-05-12)
+
+
+### 🏗 Chores
+
+* **deps:** bump handlebars from 4.7.6 to 4.7.7 ([#84](https://github.com/darkobits/dot-dot-dot/issues/84)) ([4a74d71](https://github.com/darkobits/dot-dot-dot/commit/4a74d713d17ea9b407fcc1b7ba9f8bc2043b8c91))
+* **deps:** bump hosted-git-info from 2.8.8 to 2.8.9 ([#86](https://github.com/darkobits/dot-dot-dot/issues/86)) ([d1bb35b](https://github.com/darkobits/dot-dot-dot/commit/d1bb35b119aad83d9dba9b629d8fdb25e4cb3e2f))
+* **deps:** bump lodash from 4.17.20 to 4.17.21 ([#85](https://github.com/darkobits/dot-dot-dot/issues/85)) ([dc1d99c](https://github.com/darkobits/dot-dot-dot/commit/dc1d99c151d74e31d9a2dc8f547134a7e481a7cb))
+* **deps:** Update dependencies. ([1353a2a](https://github.com/darkobits/dot-dot-dot/commit/1353a2a21b4b4e1602749988c7215bb9b86f4dc1))
+
+
+### 📖 Documentation
+
+* Update README. ([3408172](https://github.com/darkobits/dot-dot-dot/commit/34081725f05851ffeb7e5e0a32a2f4be0d49b1ca))
+
 ### [1.0.1](https://github.com/darkobits/dot-dot-dot/compare/v1.0.0...v1.0.1) (2020-12-21)
 
 
