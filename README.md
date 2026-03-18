@@ -9,6 +9,10 @@
   <a href="https://github.com/conventional-changelog/standard-version"><img src="https://img.shields.io/badge/conventional%20commits-1.0.0-027dc6.svg?style=flat-square"></a>
 </p>
 
+> [!WARNING]
+> Consult [`AGELESS.md`](./AGELESS.md) to determine if you are permitted to use
+> this software where you live.
+
 Get a random loading message.
 
 ## Install
